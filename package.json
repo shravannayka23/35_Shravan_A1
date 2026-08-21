@@ -1,0 +1,21 @@
+{
+  "name": "35_shravan_a1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "server": "node Q8/server.js",
+  "test": "node Q8/test.js",
+  "hello": "echo Hello from user defined script",
+  "info": "echo NodeJS Assignment Q8",
+  "startapp": "echo Third user defined script executed"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "archiver": "^8.0.0",
+    "unzipper": "^0.12.5"
+  }
+}

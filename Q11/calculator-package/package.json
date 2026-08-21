@@ -1,0 +1,16 @@
+{
+  "name": "shravan-simple-calculator-2026",
+  "version": "1.0.0",
+  "description": "A simple calculator package for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "calculator",
+    "nodejs",
+    "math"
+  ],
+  "author": "Shravan",
+  "license": "ISC"
+}
